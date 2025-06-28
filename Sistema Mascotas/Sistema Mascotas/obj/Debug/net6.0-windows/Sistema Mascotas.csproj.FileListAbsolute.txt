@@ -1,0 +1,18 @@
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.csproj.AssemblyReference.cache
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema_Mascotas.DuenosForm.resources
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema_Mascotas.Mascotas.resources
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.csproj.GenerateResource.cache
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.AssemblyInfoInputs.cache
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.AssemblyInfo.cs
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\bin\Debug\net6.0-windows\Sistema Mascotas.exe
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\bin\Debug\net6.0-windows\Sistema Mascotas.deps.json
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\bin\Debug\net6.0-windows\Sistema Mascotas.runtimeconfig.json
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\bin\Debug\net6.0-windows\Sistema Mascotas.dll
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\bin\Debug\net6.0-windows\Sistema Mascotas.pdb
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.dll
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\refint\Sistema Mascotas.dll
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.pdb
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\Sistema Mascotas.genruntimeconfig.cache
+C:\Users\plrojas\source\repos\Sistema Mascotas\Sistema Mascotas\obj\Debug\net6.0-windows\ref\Sistema Mascotas.dll
